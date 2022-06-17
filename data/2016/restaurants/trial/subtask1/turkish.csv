@@ -1,0 +1,35 @@
+﻿/Reviews,,,,,,,,,,
+/Review/@rid,/Review/#id,/Review/sentences/sentence/@id,/Review/sentences/sentence/@OutOfScope,/Review/sentences/sentence/#id,/Review/sentences/sentence/Opinions/Opinion/@category,/Review/sentences/sentence/Opinions/Opinion/@from,/Review/sentences/sentence/Opinions/Opinion/@polarity,/Review/sentences/sentence/Opinions/Opinion/@target,/Review/sentences/sentence/Opinions/Opinion/@to,/Review/sentences/sentence/text
+101,1,101:0,,1,RESTAURANT#GENERAL,64,positive,mekan,69,Son olarak dün gittiğim her gittiğimde ayrı keyif aldığım güzel mekan.
+101,1,101:1,,2,AMBIENCE#GENERAL,40,positive,mekanın içi,51,"Sahibi Ara Güler isminde bir fotoğrafçı mekanın içi de çok keyifli , yemekleri de leziz personel de oldukça nazik."
+101,1,101:1,,2,FOOD#QUALITY,69,positive,yemekleri,78,"Sahibi Ara Güler isminde bir fotoğrafçı mekanın içi de çok keyifli , yemekleri de leziz personel de oldukça nazik."
+101,1,101:1,,2,SERVICE#GENERAL,88,positive,personel,96,"Sahibi Ara Güler isminde bir fotoğrafçı mekanın içi de çok keyifli , yemekleri de leziz personel de oldukça nazik."
+101,1,101:2,,3,FOOD#QUALITY,4,positive,hardallı balığı,19,Tüm hardallı balığı denedim ardından elmalı yeşil çay ikisi de enfesti.
+101,1,101:2,,3,DRINKS#QUALITY,37,positive,elmalı yeşil çay,53,Tüm hardallı balığı denedim ardından elmalı yeşil çay ikisi de enfesti.
+101,1,101:3,,4,RESTAURANT#GENERAL,0,positive,NULL,0,Giderseniz deneyebilirsiniz :)
+102,2,102:0,,5,AMBIENCE#GENERAL,18,positive,dekorasyonlu,30,Gördüğüm en güzel dekorasyonlu simit sarayı diyebilirim.
+102,2,102:1,,6,AMBIENCE#GENERAL,0,neutral,NULL,0,Yemek alanının orta yerinde dairesel olarak inşa edilmiş ve her tarafı camdan.
+102,2,102:2,,7,FOOD#QUALITY,8,positive,patatesli börek,23,Ben bir patatesli börek hastası olarak hep patatesli gül börek alıyorum.
+102,2,102:3,,8,FOOD#QUALITY,0,positive,Simit sandviçleri,17,Simit sandviçleri de Denenmeli.
+102,2,102:4,,9,AMBIENCE#GENERAL,59,positive,mekan,64,Viaport için alışveriş arasında dinlenebileceğiniz hoş bir mekan.
+103,3,103:0,,10,FOOD#PRICES,0,negative,Kahvaltı tabağının,18,Kahvaltı tabağının 12.5 tl den 18.5 tl ye çıkması gerçekten çok komik.
+103,3,103:1,,11,FOOD#STYLE_OPTIONS,32,negative,tabağı,37,Bir yudum portakal suyu koyarak tabağı süsleyerek göz dolduruyorlar .
+103,3,103:2,,12,AMBIENCE#GENERAL,47,negative,mekan,52,Ayrıca bu mekanın manzarası vs yok çok dar bir mekan .
+103,3,103:2,,13,AMBIENCE#GENERAL,0,negative,Bahçesi,7,Bahçesi diyorlar da bahçe dediğiniz küçücük alan ve yer bulmak imkansız .
+103,3,103:2,,14,SERVICE#GENERAL,7,negative,mekanın sahibi,21,Ayrıca mekanın sahibi içten değil bence laubali .
+104,4,104:0,TRUE,15,,,,,,Tuzla Balıkçısının daha küçük ve sakin versiyonu.
+104,4,104:1,,16,RESTAURANT#PRICES,0,neutral,Fiyatlar,8,"Fiyatlar yakın, sokakta rahat bir ortamda, kaşıkla çeşitli balık servisi alıyorsunuz."
+104,4,104:1,,16,AMBIENCE#GENERAL,34,positive,ortamda,41,"Fiyatlar yakın, sokakta rahat bir ortamda, kaşıkla çeşitli balık servisi alıyorsunuz."
+104,4,104:1,,16,FOOD#STYLE_OPTIONS,59,positive,balık servisi,72,"Fiyatlar yakın, sokakta rahat bir ortamda, kaşıkla çeşitli balık servisi alıyorsunuz."
+104,4,104:2,,17,RESTAURANT#GENERAL,8,positive,yer,11,İyi bir yer belki arada bir denenebilir.
+105,5,105:0,,18,RESTAURANT#PRICES,0,negative,Fiyatları,9,Fiyatları ortalamanın üstünde.
+105,5,105:1,,19,LOCATION#GENERAL,0,negative,Ulaşım,6,Ulaşım zor.
+105,5,105:2,,20,FOOD#QUALITY,0,positive,Etleri,6,Etleri oldukça lezzetli.
+105,5,105:3,,21,DRINKS#STYLE_OPTIONS,0,positive,Şarap,5,Şarap çeşitleri fazla ve şaraplar kaliteli.
+105,5,105:3,,21,DRINKS#QUALITY,25,positive,şaraplar,33,Şarap çeşitleri fazla ve şaraplar kaliteli.
+105,5,105:4,,22,SERVICE#GENERAL,0,positive,Garsonlar,9,Garsonlar elbette kibarlar ama sürekli etrafınızda dolaşıp size bakmaları bazen huzursuzluk verebiliyor.
+105,5,105:4,,22,SERVICE#GENERAL,0,negative,NULL,0,Garsonlar elbette kibarlar ama sürekli etrafınızda dolaşıp size bakmaları bazen huzursuzluk verebiliyor.
+105,5,105:4,,23,AMBIENCE#GENERAL,0,negative,Mekan-dekorasyon,16,Mekan-dekorasyon fena değil ama etlerin kalitesi ve fiyatların yüksekliği ile karşılaştırıldığında biraz sönük kalıyor.
+105,5,105:4,,23,FOOD#QUALITY,32,negative,etlerin,39,Mekan-dekorasyon fena değil ama etlerin kalitesi ve fiyatların yüksekliği ile karşılaştırıldığında biraz sönük kalıyor.
+105,5,105:4,,23,RESTAURANT#PRICES,52,negative,fiyatların,62,Mekan-dekorasyon fena değil ama etlerin kalitesi ve fiyatların yüksekliği ile karşılaştırıldığında biraz sönük kalıyor.
+105,5,105:5,,24,FOOD#QUALITY,0,negative,Lokumu,6,Lokumu tavsiye ederim.

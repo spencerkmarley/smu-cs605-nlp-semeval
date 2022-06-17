@@ -1,0 +1,37 @@
+﻿/Reviews,,,,,,
+/Review/@rid,/Review/#id,/Review/sentences,/Review/sentences/sentence/@id,/Review/sentences/sentence/Opinions/Opinion/@category,/Review/sentences/sentence/Opinions/Opinion/@polarity,/Review/sentences/sentence/text
+1,1,　,1:0,,,用了一个月的台电C280客观评价，
+1,1,　,1:1,MULTIMEDIA DEVICES#QUALITY,positive,优点：音质非常不错，
+1,1,　,1:2,,,建议大家配个好耳机更爽。
+1,1,　,1:3,MULTIMEDIA DEVICES#QUALITY,positive,视频图像也很清晰，
+1,1,　,1:4,MULTIMEDIA DEVICES#QUALITY,positive,色彩还原较好。
+1,1,　,1:5,DISPLAY#GENERAL,positive,外观也很现代。
+1,1,　,1:6,PHONE#OPERATION_PERFORMANCE,negative,缺点：操作太麻烦了，
+1,1,　,1:7,,,也许刚买的朋友们会不适应。
+1,1,　,1:8,MULTIMEDIA DEVICES#GENERAL,negative,播放音乐界面太幼稚了，
+1,1,　,1:9,MULTIMEDIA DEVICES#OPERATION_PERFORMANCE,negative,MP3格式的音乐播放时会强制淡入，
+1,1,　,1:10,,,听英语的朋友们要倒霉了。
+1,1,　,1:11,BATTERY#GENERAL,negative,电池最让人不满意，
+1,1,　,1:12,BATTERY#QUALITY,negative,持续时间太短。
+1,1,　,1:13,PHONE#GENERAL,positive,总评：总体还是很让人满意的，
+1,1,　,1:14,PHONE#PRICE,positive,性价比很高。
+2,2,,2:0,,,我也是入手D1三天
+2,2,,2:1,PHONE#GENERAL,positive,个人感觉还是蛮好的机子，
+2,2,,2:2,COMPANY#GENERAL,positive,希望华为以后带给国人更多的惊喜！
+2,2,,2:3,COMPANY#GENERAL,positive,本人买这台机器是出于支持优秀的本国企业，
+2,2,,2:4,,,那怕我的力量只是微不足道的。
+2,2,,2:5,BATTERY#QUALITY,negative,电池也如大家说的一样使劲折腾的话真是不怎么耐用，
+2,2,,2:6,,,毕竟是4.5寸的原因吧！
+2,2,,2:7,,,我用过几部大屏幕智能机一般都有这个通病！
+2,2,,2:8,BATTERY#QUALITY,negative,所以个人感觉电池这块是大屏幕的通病，
+2,2,,2:9,,,不过现在有移动电源，
+2,2,,2:10,,,出远门的时候大家还是可以带着去的呵呵！
+3,3,,3:0,,,先买了c8825d使用两天，
+3,3,,3:1,PHONE#GENERAL,positive,优点很多，
+3,3,,3:2,PHONE#QUALITY,positive,速度快，
+3,3,,3:3,SOFTWARE#QUALITY,positive,gps搜星定位快，
+3,3,,3:4,CALLS#QUALITY,positive,通话质量也不错。
+3,3,,3:5,,,随后发现问题，
+3,3,,3:6,PHONE#CONNECTIVITY,negative,开机几个小时后3g网络失效，
+3,3,,3:7,,,表现为网页无法打开。
+3,3,,3:8,SOFTWARE#CONNECTIVITY,negative,在即时通信软件风行的今天这个故障是无法忍受的。

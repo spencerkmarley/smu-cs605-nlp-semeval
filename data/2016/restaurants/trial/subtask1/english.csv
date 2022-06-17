@@ -1,0 +1,75 @@
+﻿/Reviews,,,,,,,,,
+/Review/@rid,/Review/#id,/Review/sentences/sentence/@id,/Review/sentences/sentence/#id,/Review/sentences/sentence/Opinions/Opinion/@category,/Review/sentences/sentence/Opinions/Opinion/@from,/Review/sentences/sentence/Opinions/Opinion/@polarity,/Review/sentences/sentence/Opinions/Opinion/@target,/Review/sentences/sentence/Opinions/Opinion/@to,/Review/sentences/sentence/text
+1090587,1,1090587:0,1,,,,,,Just went here for my girlfriends 23rd bday.
+1090587,1,1090587:1,2,LOCATION#GENERAL,80,positive,view,84,If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.
+1090587,1,1090587:2,3,SERVICE#GENERAL,18,positive,service,25,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+1090587,1,1090587:2,3,FOOD#QUALITY,36,positive,food,40,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+1090587,1,1090587:2,3,FOOD#PRICES,36,positive,food,40,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+1090587,1,1090587:3,4,FOOD#QUALITY,4,positive,lava cake dessert,21,The lava cake dessert was incredible and I recommend it.
+1661043,2,1661043:0,5,FOOD#QUALITY,0,positive,Pizza,5,Pizza here is consistently good.
+1661043,2,1661043:1,6,FOOD#QUALITY,0,positive,Salads,6,Salads are a delicious way to begin the meal.
+1661043,2,1661043:2,7,FOOD#QUALITY,23,negative,calamari,31,You should pass on the calamari.
+1661043,2,1661043:3,8,FOOD#QUALITY,0,negative,NULL,0,It is thick and slightly soggy.
+1661043,2,1661043:4,9,AMBIENCE#GENERAL,0,positive,Decor,5,Decor is charming.
+1661043,2,1661043:5,10,SERVICE#GENERAL,0,neutral,Service,7,Service is average.
+1349391,3,1349391:0,11,FOOD#QUALITY,21,positive,food,25,sometimes i get good food and ok service.
+1349391,3,1349391:0,11,SERVICE#GENERAL,33,neutral,service,40,sometimes i get good food and ok service.
+1349391,3,1349391:1,12,FOOD#QUALITY,20,negative,food,24,"sometimes i get bad food and bad service, sometimes i get good good and bad service."
+1349391,3,1349391:1,12,SERVICE#GENERAL,33,negative,service,40,"sometimes i get bad food and bad service, sometimes i get good good and bad service."
+1349391,3,1349391:1,12,SERVICE#GENERAL,76,negative,service,83,"sometimes i get bad food and bad service, sometimes i get good good and bad service."
+1349391,3,1349391:1,12,FOOD#QUALITY,63,positive,good,67,"sometimes i get bad food and bad service, sometimes i get good good and bad service."
+1349391,3,1349391:2,13,RESTAURANT#GENERAL,0,negative,NULL,0,it is not consistent.
+1349391,3,1349391:3,14,,,,,,really depends on your luck!
+1357554,4,1357554:0,15,DRINKS#STYLE_OPTIONS,21,positive,Bombay beer,32,I started out with a Bombay beer which was big enough for two.
+1357554,4,1357554:1,16,,,,,,For dinner I had the chicken tikka-masala and some garlic naan.
+1357554,4,1357554:2,17,FOOD#QUALITY,0,positive,NULL,0,MMmmm... it was delicious.
+1357554,4,1357554:3,18,SERVICE#GENERAL,0,negative,Service,7,"Service was slow, but the people were friendly."
+1357554,4,1357554:3,18,SERVICE#GENERAL,26,positive,people,32,"Service was slow, but the people were friendly."
+1357554,4,1357554:4,19,AMBIENCE#GENERAL,12,positive,place,17,It's a nice place to relax and have conversation.
+1357554,4,1357554:5,20,RESTAURANT#GENERAL,0,positive,NULL,0,I can't wait to go back.
+1730014,5,1730014:0,21,,,,,,"I went here with a friend on a whim, we went someplace else first and couldn't get a table."
+1730014,5,1730014:1,22,SERVICE#GENERAL,0,positive,Service,7,"Service here was great, food was fantastic."
+1730014,5,1730014:1,22,FOOD#QUALITY,24,positive,food,28,"Service here was great, food was fantastic."
+1730014,5,1730014:2,23,FOOD#QUALITY,0,positive,Guacamole+shrimp appetizer,26,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared."
+1730014,5,1730014:2,23,FOOD#QUALITY,61,positive,filet,66,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared."
+1730014,5,1730014:2,23,FOOD#QUALITY,100,negative,frites,106,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared."
+1730014,5,1730014:3,24,RESTAURANT#GENERAL,0,positive,NULL,0,Will absolutely visit again.
+1730014,5,1730014:4,25,,,,,,Maybe tomorrow ;-)
+1500453,6,1500453:0,26,,,,,,Molto bene!
+1500453,6,1500453:1,27,AMBIENCE#GENERAL,25,positive,trattoria,34,This quaint and romantic trattoria is at the top of my Manhattan restaurant list.
+1500453,6,1500453:1,27,RESTAURANT#GENERAL,25,positive,trattoria,34,This quaint and romantic trattoria is at the top of my Manhattan restaurant list.
+1500453,6,1500453:2,28,FOOD#QUALITY,4,positive,food,8,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment."
+1500453,6,1500453:2,28,FOOD#QUALITY,72,positive,dishes,78,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment."
+1500453,6,1500453:2,28,FOOD#QUALITY,33,positive,specials,41,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment."
+1500453,6,1500453:2,28,FOOD#QUALITY,49,positive,regular menu-fare,66,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment."
+1500453,6,1500453:3,29,FOOD#QUALITY,17,positive,parmesean porcini souffle,42,"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite."
+1500453,6,1500453:3,29,FOOD#QUALITY,50,positive,lamb glazed with balsamic vinegar,83,"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite."
+1500453,6,1500453:4,30,AMBIENCE#GENERAL,49,positive,candle-light,61,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate."
+1500453,6,1500453:4,30,FOOD#QUALITY,63,positive,food,67,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate."
+1500453,6,1500453:4,30,SERVICE#GENERAL,80,positive,service,87,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate."
+1500453,6,1500453:4,30,AMBIENCE#GENERAL,13,negative,tables,19,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate."
+1500453,6,1500453:5,31,RESTAURANT#GENERAL,0,positive,NULL,0,A guaranteeed delight!
+505535,7,505535:0,32,AMBIENCE#GENERAL,29,positive,interior decor,43,this little place has a cute interior decor and affordable city prices.
+505535,7,505535:0,32,RESTAURANT#PRICES,12,positive,place,17,this little place has a cute interior decor and affordable city prices.
+505535,7,505535:1,33,FOOD#QUALITY,4,positive,pad se ew chicken,21,"the pad se ew chicken was delicious, however the pad thai was far too oily."
+505535,7,505535:1,33,FOOD#QUALITY,49,negative,pad thai,57,"the pad se ew chicken was delicious, however the pad thai was far too oily."
+505535,7,505535:2,34,,,,,,i would just ask for no oil next time.
+1016296,8,1016296:0,35,RESTAURANT#GENERAL,34,negative,restaurant,44,I was very disappointed with this restaurant.
+1016296,8,1016296:1,36,SERVICE#GENERAL,12,negative,cart attendant,26,Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.
+1016296,8,1016296:2,37,SERVICE#GENERAL,0,negative,NULL,0,I had to ask her three times before she finally came back with the dish Ive requested.
+1016296,8,1016296:3,38,FOOD#QUALITY,0,neutral,Food,4,"Food was okay, nothing great."
+1016296,8,1016296:4,39,FOOD#QUALITY,0,negative,Chow fun,8,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.
+1016296,8,1016296:4,39,FOOD#QUALITY,18,negative,pork shu mai,30,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.
+1016296,8,1016296:4,39,RESTAURANT#MISCELLANEOUS,0,negative,NULL,0,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.
+1016296,8,1016296:5,40,RESTAURANT#GENERAL,32,negative,place,37,I/we will never go back to this place again.
+Z#3,9,Z#3:0,41,FOOD#QUALITY,10,positive,food,14,"Excellent food, although the interior could use some help."
+Z#3,9,Z#3:0,41,AMBIENCE#GENERAL,29,negative,interior,37,"Excellent food, although the interior could use some help."
+Z#3,9,Z#3:1,42,AMBIENCE#GENERAL,4,negative,space,9,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that."
+Z#3,9,Z#3:2,43,FOOD#QUALITY,33,positive,meal,37,"I paid just about $60 for a good meal, though :)"
+Z#3,9,Z#3:2,43,FOOD#PRICES,33,positive,meal,37,"I paid just about $60 for a good meal, though :)"
+Z#3,9,Z#3:3,44,DRINKS#QUALITY,6,positive,sake,10,Great sake!
+PP#9,10,PP#9:0,45,RESTAURANT#GENERAL,0,negative,NULL,0,Way below average
+PP#9,10,PP#9:1,46,FOOD#QUALITY,12,negative,pizza,17,I think the pizza is so overrated and was under cooked.
+PP#9,10,PP#9:2,47,SERVICE#GENERAL,22,negative,staff,27,Had no flavor and the staff is rude and not attentive.
+PP#9,10,PP#9:2,47,FOOD#QUALITY,0,negative,NULL,0,Had no flavor and the staff is rude and not attentive.
+PP#9,10,PP#9:3,48,RESTAURANT#GENERAL,0,negative,NULL,0,Would NEVER go back

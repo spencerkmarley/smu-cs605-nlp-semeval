@@ -1,0 +1,41 @@
+﻿/Reviews,,,,,,,,,
+/Review/@rid,/Review/#id,/Review/sentences/sentence/@id,/Review/sentences/sentence/#id,/Review/sentences/sentence/Opinions/Opinion/@category,/Review/sentences/sentence/Opinions/Opinion/@from,/Review/sentences/sentence/Opinions/Opinion/@polarity,/Review/sentences/sentence/Opinions/Opinion/@target,/Review/sentences/sentence/Opinions/Opinion/@to,/Review/sentences/sentence/text
+Review-g188671-d1761224_4,1,1,1,RESTAURANT#GENERAL,11,positive,restaurant,21,Uitstekend restaurant .
+Review-g188671-d1761224_4,1,2,2,FOOD#QUALITY,13,positive,vlaamse stoofschotel,33,We hebben de Vlaamse stoofschotel gekozen en deze bleek geweldig .
+Review-g188671-d1761224_4,1,3,3,FOOD#QUALITY,36,positive,belgische friet,51,Een zeer royale portie en heerlijke Belgische friet !
+Review-g188671-d1761224_4,1,3,3,FOOD#STYLE_OPTIONS,16,positive,portie,22,Een zeer royale portie en heerlijke Belgische friet !
+Review-g188671-d1761224_4,1,4,4,DRINKS#PRICES,18,positive,huiswijn,26,"De goed geprijsde huiswijn , die aangeraden werd , paste er excellent bij ."
+Review-g188671-d1761224_4,1,4,4,DRINKS#QUALITY,18,positive,huiswijn,26,"De goed geprijsde huiswijn , die aangeraden werd , paste er excellent bij ."
+Review-g188671-d1761224_4,1,5,5,SERVICE#GENERAL,21,positive,bediening,30,Uiterst vriendelijke bediening .
+Review-g188671-d1761224_4,1,6,6,LOCATION#GENERAL,0,positive,null,0,"Het ligt wel iets buiten het centrum , maar de wandeling wordt beloond met een zeer goede maaltijd ."
+Review-g188671-d1761224_4,1,6,6,FOOD#QUALITY,90,positive,maaltijd,98,"Het ligt wel iets buiten het centrum , maar de wandeling wordt beloond met een zeer goede maaltijd ."
+Review-g188671-d1761224_4,1,7,7,RESTAURANT#GENERAL,19,positive,restaurant,29,"Een aanrader , dit restaurant ."
+Review-g188671-d1761224_4,1,8,8,,,,,,Rudie en Willemijn
+Review-g188671-d2166198_2,2,1,9,FOOD#QUALITY,0,positive,null,0,Lekker gegeten .
+Review-g188671-d2166198_2,2,2,10,SERVICE#GENERAL,29,positive,bediening,38,Zeer attente en vriendelijke bediening .
+Review-g188671-d2166198_2,2,3,11,RESTAURANT#GENERAL,0,positive,null,0,Hier zou ik zonder nadenken een tweede maal gaan eten .
+Review-g188671-d2166198_2,2,4,12,DRINKS#QUALITY,7,positive,wijn,11,Ook de wijn was een aanrader .
+Review-g188671-d2294477_1,3,1,13,,,,,,Brugge is een mooie stad .
+Review-g188671-d2294477_1,3,2,14,FOOD#QUALITY,3,positive,spareribs,12,De spareribs waren lekker !
+Review-g188671-d2294477_1,3,3,15,SERVICE#GENERAL,0,positive,personeel,9,Personeel is erg vriendelijk en goede bediening .
+Review-g188671-d2330356_2,4,1,16,RESTAURANT#GENERAL,0,positive,null,0,Hier wordt de perfectie nagestreefd !
+Review-g188671-d2330356_2,4,2,17,FOOD#QUALITY,23,positive,brood met rozijnen,41,Zalige gebakjes en het brood met rozijnen is perfect ! !
+Review-g188671-d2330356_2,4,2,17,FOOD#QUALITY,7,positive,gebakjes,15,Zalige gebakjes en het brood met rozijnen is perfect ! !
+Review-g188671-d2330356_2,4,3,18,SERVICE#GENERAL,13,positive,bediening,22,"Vriendelijke bediening , en top patissier ! ! ! !"
+Review-g188671-d2330356_2,4,3,18,RESTAURANT#GENERAL,32,positive,patissier,41,"Vriendelijke bediening , en top patissier ! ! ! !"
+Review-g941689-d3671892_2,5,1,19,,,,,,Vandaag een verjaardagsfeestje .
+Review-g941689-d3671892_2,5,2,20,,,,,,Dus gezellig samen uit eten .
+Review-g941689-d3671892_2,5,3,21,,,,,,"Tafel gereserveerd en dan genieten maar , dachten we ."
+Review-g941689-d3671892_2,5,4,22,,,,,,Om 18 uur aan tafel .
+Review-g941689-d3671892_2,5,5,23,SERVICE#GENERAL,0,negative,null,0,Nadat we zelf de menukaarten hadden gevonden hebben we om half zeven maar eens gevraagd of we konden bestellen .
+Review-g941689-d3671892_2,5,6,24,SERVICE#GENERAL,0,negative,null,0,Tien minuten later nog maar eens gevraagd .
+Review-g941689-d3671892_2,5,7,25,FOOD#QUALITY,4,neutral,voorgerecht,15,Het voorgerecht was ok .
+Review-g941689-d3671892_2,5,8,26,SERVICE#GENERAL,0,negative,null,0,Op het hoofdgerecht hebben dan nog drie kwartier kunnen wachten na meermaals navragen .
+Review-g941689-d3671892_2,5,9,27,FOOD#QUALITY,27,negative,vlees,32,"Kleine porties , half rauw vlees , kortom : waardeloos ."
+Review-g941689-d3671892_2,5,9,27,FOOD#STYLE_OPTIONS,7,negative,porties,14,"Kleine porties , half rauw vlees , kortom : waardeloos ."
+Review-g941689-d3671892_2,5,10,28,FOOD#QUALITY,3,negative,salade,9,"De salade verlept , de frieten uit de diepvries ."
+Review-g941689-d3671892_2,5,10,28,FOOD#QUALITY,23,negative,frieten,30,"De salade verlept , de frieten uit de diepvries ."
+Review-g941689-d3671892_2,5,11,29,SERVICE#GENERAL,3,negative,bediening,12,"De bediening is onvriendelijk , begint altijd met de gasten te discussiëren ."
+Review-g941689-d3671892_2,5,12,30,DRINKS#STYLE_OPTIONS,12,negative,leefe,17,Mijn tweede Leefe uit het vatkwam in een flesje !
+Review-g941689-d3671892_2,5,13,31,RESTAURANT#GENERAL,0,negative,null,0,Kortom : echt waardeloos .
+Review-g941689-d3671892_2,5,14,32,RESTAURANT#GENERAL,0,negative,null,0,Nooit meer .

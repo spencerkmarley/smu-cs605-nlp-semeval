@@ -1,0 +1,63 @@
+﻿/Reviews,,,,,,,,,
+/Review/@rid,/Review/#id,/Review/sentences/sentence/@id,/Review/sentences/sentence/#id,/Review/sentences/sentence/Opinions/Opinion/@category,/Review/sentences/sentence/Opinions/Opinion/@from,/Review/sentences/sentence/Opinions/Opinion/@polarity,/Review/sentences/sentence/Opinions/Opinion/@target,/Review/sentences/sentence/Opinions/Opinion/@to,/Review/sentences/sentence/text
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:0,1,SERVICE#GENERAL,0,negative,NULL,0,"Une petite dame nous accueille sans le sourire mais surtout sans enthousiasme, ça devait l'énerver d'avoir des clients un mardi soir .... 3 tables."
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:1,2,RESTAURANT#GENERAL,0,negative,NULL,0,"Bref, passons ...."
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:2,3,FOOD#QUALITY,24,negative,lasagnes,32,"On commande quand même, lasagnes pâteuses, avec beaucoup de fromage sans saveur sur le dessus, ce qui atténuait l'acidité du concentré de tomates ... !"
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:2,3,FOOD#QUALITY,60,negative,fromage,67,"On commande quand même, lasagnes pâteuses, avec beaucoup de fromage sans saveur sur le dessus, ce qui atténuait l'acidité du concentré de tomates ... !"
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:2,3,FOOD#QUALITY,125,negative,concentré de tomates,145,"On commande quand même, lasagnes pâteuses, avec beaucoup de fromage sans saveur sur le dessus, ce qui atténuait l'acidité du concentré de tomates ... !"
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:3,4,FOOD#QUALITY,0,negative,Dessert,7,Dessert tout sauf maison .... !
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:4,5,RESTAURANT#GENERAL,0,negative,NULL,0,"Je ne conseille vraiment pas, même si votre frigo est vide et que les autres restau d'à côté sont pleins et que vous ne savez pas où aller ....."
+g1080574-d1337519-r211045323,1,g1080574-d1337519-r211045323:5,6,RESTAURANT#GENERAL,0,negative,NULL,0,Il vaut encore mieux aller au Mc Do !
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:0,7,AMBIENCE#GENERAL,20,positive,décor,25,"Petit restaurant au décor soigné, aux tables bien mises."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:1,8,SERVICE#GENERAL,2,negative,accueil,9,"L'accueil manque un peu de chaleur, le service qui suivra également."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:1,8,SERVICE#GENERAL,0,negative,NULL,0,"L'accueil manque un peu de chaleur, le service qui suivra également."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:2,9,FOOD#STYLE_OPTIONS,15,neutral,menus,20,"Les différents menus à base de ""Mezzés"" se ressemblent, les spécialités sont réussies pour certaines (hoummous, taboulé..), moins réussies pour d'autres comme par exemple la purée d'aubergine assez fade ou ces boulettes ayant un arrière goût ""brûlé""."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:2,9,FOOD#QUALITY,102,positive,hoummous,110,"Les différents menus à base de ""Mezzés"" se ressemblent, les spécialités sont réussies pour certaines (hoummous, taboulé..), moins réussies pour d'autres comme par exemple la purée d'aubergine assez fade ou ces boulettes ayant un arrière goût ""brûlé""."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:2,9,FOOD#QUALITY,112,positive,taboulé,119,"Les différents menus à base de ""Mezzés"" se ressemblent, les spécialités sont réussies pour certaines (hoummous, taboulé..), moins réussies pour d'autres comme par exemple la purée d'aubergine assez fade ou ces boulettes ayant un arrière goût ""brûlé""."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:2,9,FOOD#QUALITY,174,negative,purée d'aubergine,191,"Les différents menus à base de ""Mezzés"" se ressemblent, les spécialités sont réussies pour certaines (hoummous, taboulé..), moins réussies pour d'autres comme par exemple la purée d'aubergine assez fade ou ces boulettes ayant un arrière goût ""brûlé""."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:2,9,FOOD#QUALITY,210,negative,boulettes,219,"Les différents menus à base de ""Mezzés"" se ressemblent, les spécialités sont réussies pour certaines (hoummous, taboulé..), moins réussies pour d'autres comme par exemple la purée d'aubergine assez fade ou ces boulettes ayant un arrière goût ""brûlé""."
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:3,10,FOOD#STYLE_OPTIONS,0,negative,NULL,0,Nous sommes dans le classique du genre avec peu de surprise et des prix plutôt élevés.
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:3,10,RESTAURANT#PRICES,0,negative,NULL,0,Nous sommes dans le classique du genre avec peu de surprise et des prix plutôt élevés.
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:4,11,DRINKS#STYLE_OPTIONS,32,positive,carte des vins,46,Mention spéciale toutefois à la carte des vins (libanais) et au geste du restaurateur qui a offert une partie des desserts.
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:4,11,SERVICE#GENERAL,73,positive,restaurateur,85,Mention spéciale toutefois à la carte des vins (libanais) et au geste du restaurateur qui a offert une partie des desserts.
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:5,12,RESTAURANT#GENERAL,0,positive,NULL,0,"Allons, une bonne soirée tout de même, mais un effort souhaité sur les goûts et saveurs méditerranéennes !"
+g187075-d3489527-r254992608,2,g187075-d3489527-r254992608:5,12,FOOD#QUALITY,0,negative,NULL,0,"Allons, une bonne soirée tout de même, mais un effort souhaité sur les goûts et saveurs méditerranéennes !"
+g187095-d1872852-r270870454,3,g187095-d1872852-r270870454:0,13,RESTAURANT#GENERAL,0,positive,NULL,0,J'ai tout aimé ... :-)
+g187095-d1872852-r270870454,3,g187095-d1872852-r270870454:1,14,SERVICE#GENERAL,0,positive,Accueil,7,Accueil et service sont agréables et efficaces
+g187095-d1872852-r270870454,3,g187095-d1872852-r270870454:1,14,SERVICE#GENERAL,11,positive,service,18,Accueil et service sont agréables et efficaces
+g187095-d1872852-r270870454,3,g187095-d1872852-r270870454:2,15,FOOD#QUALITY,59,positive,cassoulet breton,75,Tous les plats sont bons avec une mention spéciale pour le cassoulet breton
+g187095-d1872852-r270870454,3,g187095-d1872852-r270870454:2,15,FOOD#QUALITY,9,positive,plats,14,Tous les plats sont bons avec une mention spéciale pour le cassoulet breton
+g187095-d1872852-r270870454,3,g187095-d1872852-r270870454:3,16,,,,,,
+g187095-d1872852-r270870454,3,g187095-d1872852-r270870454:4,17,AMBIENCE#GENERAL,0,negative,Restaurant,10,Restaurant bondé le midi mieux vaut arriver tôt
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:0,18,SERVICE#GENERAL,0,negative,Accueil,7,"Accueil glacial, à peine installés et la carte en main que l'on vient prendre commande."
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:0,18,SERVICE#GENERAL,0,negative,NULL,0,"Accueil glacial, à peine installés et la carte en main que l'on vient prendre commande."
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:1,19,SERVICE#GENERAL,0,negative,NULL,0,Comptez trois quarts d'heure pour avoir uniquement le plat.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:2,20,SERVICE#GENERAL,0,negative,NULL,0,D'ailleurs plat qui nous est grossièrement transmit de mains à mains.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:3,21,SERVICE#GENERAL,23,negative,service,30,Je n'appelle pas ça un service digne d'un restaurants.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:4,22,FOOD#QUALITY,4,negative,viande,10,Une viande qui n'est pas cuite comme à notre demande : saignante et non à point comme demandé.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:5,23,SERVICE#GENERAL,19,negative,dessert,26,Aucune commande de dessert n'a été prise après une demie heure d'attente à la fin du plat.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:6,24,,,,,,Nous avons donc décidés de partir sans dessert !
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:7,25,SERVICE#GENERAL,31,negative,accueil,38,Départ aussi désagréable que l'accueil.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:8,26,RESTAURANT#GENERAL,43,negative,taverne,50,Déçus de notre soirée car j'ai connu cette taverne sous de meilleurs jours.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:9,27,FOOD#QUALITY,42,negative,plats,47,Beaucoup trop onéreux pour la qualité des plats.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:9,27,RESTAURANT#PRICES,0,negative,NULL,0,Beaucoup trop onéreux pour la qualité des plats.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:10,28,RESTAURANT#PRICES,0,negative,NULL,0,Un rapport qualité/prix qui se passe donc de commentaire.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:10,28,FOOD#QUALITY,11,neutral,qualité/prix,23,Un rapport qualité/prix qui se passe donc de commentaire.
+g187095-d1954560-r227348486,4,g187095-d1954560-r227348486:11,29,RESTAURANT#GENERAL,0,negative,NULL,0,Je déconseille +++ .
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:0,30,,,,,,Nous sommes allés dans ce restaurant un dimanche soir.
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:1,31,,,,,,"Nous avons pris le menu à 29,90€."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:2,32,FOOD#QUALITY,8,negative,Saint Jacques en brochettes,35,Entrée: Saint Jacques en brochettes de qualité moyenne.
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:3,33,SERVICE#GENERAL,0,negative,NULL,0,On ne change pas les couverts...
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:4,34,FOOD#QUALITY,10,negative,pièce de boeuf grillée,32,"Plat: une pièce de boeuf grillée (pas très tendre), sans sauce, avec de la purée de carottes (très bonne), des brocolis et des pommes de terre pas cuites au milieu."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:4,34,FOOD#QUALITY,75,positive,purée de carottes,92,"Plat: une pièce de boeuf grillée (pas très tendre), sans sauce, avec de la purée de carottes (très bonne), des brocolis et des pommes de terre pas cuites au milieu."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:4,34,FOOD#QUALITY,127,negative,pommes de terre,142,"Plat: une pièce de boeuf grillée (pas très tendre), sans sauce, avec de la purée de carottes (très bonne), des brocolis et des pommes de terre pas cuites au milieu."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:5,35,,,,,,Nous avons fait la remarque à la serveuse qui a transmis au cuisinier.
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:6,36,SERVICE#GENERAL,0,negative,NULL,0,Nous avons entendu ce dernier dire depuis la cuisine que si on n'était pas content on n'avait qu'à les manger en purée!...
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:7,37,FOOD#QUALITY,9,positive,mousse aux 2 chocolats,31,"Dessert: mousse aux 2 chocolats, bonne mais beaucoup trop sucrée."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:8,38,RESTAURANT#MISCELLANEOUS,0,negative,NULL,0,La salle est bien mais les WC ne sont pas à la hauteur.
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:8,38,AMBIENCE#GENERAL,3,positive,salle,8,La salle est bien mais les WC ne sont pas à la hauteur.
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:9,39,AMBIENCE#GENERAL,42,positive,terrasse,50,L'établissement dispose aussi d'une jolie terrasse.
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:10,40,SERVICE#GENERAL,13,negative,cuisinier,22,"En résumé un cuisinier mal embouché, un repas peut-être bio mais pas gastronomique (on peut manger bio sans être forcément au régime...), le tout pour un prix trop élevé."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:10,40,FOOD#QUALITY,40,negative,repas,45,"En résumé un cuisinier mal embouché, un repas peut-être bio mais pas gastronomique (on peut manger bio sans être forcément au régime...), le tout pour un prix trop élevé."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:10,40,RESTAURANT#PRICES,0,negative,NULL,0,"En résumé un cuisinier mal embouché, un repas peut-être bio mais pas gastronomique (on peut manger bio sans être forcément au régime...), le tout pour un prix trop élevé."
+g3463365-d3594852-r200815446,5,g3463365-d3594852-r200815446:10,40,FOOD#STYLE_OPTIONS,0,negative,NULL,0,"En résumé un cuisinier mal embouché, un repas peut-être bio mais pas gastronomique (on peut manger bio sans être forcément au régime...), le tout pour un prix trop élevé."

@@ -1,0 +1,181 @@
+﻿/Reviews,,,,,,,,,,
+/Review/@rid,/Review/#id,/Review/sentences/sentence/@id,/Review/sentences/sentence/@OutOfScope,/Review/sentences/sentence/#id,/Review/sentences/sentence/Opinions/Opinion/@category,/Review/sentences/sentence/Opinions/Opinion/@from,/Review/sentences/sentence/Opinions/Opinion/@polarity,/Review/sentences/sentence/Opinions/Opinion/@target,/Review/sentences/sentence/Opinions/Opinion/@to,/Review/sentences/sentence/text
+5000,1,5000:0,TRUE,1,,,,,,Ogle yumegi zaman roll sushi menu var.
+5000,1,5000:1,TRUE,2,,,,,,33TL acaba icecek icinde.
+5000,1,5000:2,TRUE,3,,,,,,Biraz once gittim .
+5000,1,5000:3,TRUE,4,,,,,,Ama fiyat degisti olabilir.
+5000,1,5000:4,,5,SERVICE#GENERAL,0,,Serviste,8,Serviste cok guzel.
+5000,1,5000:5,,6,AMBIENCE#GENERAL,0,,Ortam,5,Ortam cok guzel.
+5000,1,5000:6,,7,FOOD#QUALITY,0,,,0,Lezzetliydi.
+5001,2,5001:0,,8,RESTAURANT#GENERAL,16,,sushico şubesi,30,En beğendigimiz sushico şubesi.
+5001,2,5001:1,,9,AMBIENCE#GENERAL,0,,Bahçesi,7,Bahçesi çok güzel ve ferah.
+5001,2,5001:2,,10,SERVICE#GENERAL,0,,Sushi ustasi,12,Sushi ustasi cok becerikli ve şakaci :
+5001,2,5001:3,,11,SERVICE#GENERAL,25,,servis,31,) yogun oldugu saatlerde servis biraz aksak olsa da kabul edilebilir buluyoruz
+5002,3,5002:0,,12,FOOD#STYLE_OPTIONS,0,,Menü çeşitleri,14,Menü çeşitleri zengin.
+5002,3,5002:1,,13,AMBIENCE#GENERAL,107,,mekan,112,Fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan.
+5002,3,5002:1,,13,RESTAURANT#PRICES,0,,Fiyatları,9,Fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan.
+5003,4,5003:0,TRUE,14,,,,,,Muhallebici ama...
+5003,4,5003:1,,15,FOOD#QUALITY,62,,künefesini,72,- Herkesin muhallebisini ya da süt tatlilari yedigi yerin ben künefesini begeniyorum.
+5003,4,5003:2,TRUE,16,,,,,,Geçen sene haftada bir künefe yemege giderdim.
+5004,5,5004:0,,17,FOOD#QUALITY,27,,saç arasi,36,Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde (kasarli ve kiymali) çok basarili.
+5004,5,5004:0,,17,FOOD#QUALITY,41,,tavuk sis,50,Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde (kasarli ve kiymali) çok basarili.
+5004,5,5004:0,,17,FOOD#QUALITY,60,,ekmeklerde,70,Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde (kasarli ve kiymali) çok basarili.
+5004,5,5004:0,,17,FOOD#QUALITY,12,,biçak arasi,23,Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde (kasarli ve kiymali) çok basarili.
+5004,5,5004:1,,18,RESTAURANT#GENERAL,47,,mekan,52,Konyada yemedim ama yiyenlerinde begendigi bir mekan.
+5005,6,5005:0,,19,SERVICE#GENERAL,0,,Servis,6,Servis iyi olmadigindan michelin yildizli yemek yapsalar gözüme görünmüyor.
+5005,6,5005:1,,20,DRINKS#QUALITY,54,,kola,58,35 derece yaz sicaginda buzdolaplari bozuk diye sicak kola getirdiler bu sefer de.
+5006,7,5006:0,,21,FOOD#QUALITY,135,,tatların,143,Buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz.
+5006,7,5006:0,,21,RESTAURANT#GENERAL,124,,mekanın,131,Buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz.
+5006,7,5006:1,,22,FOOD#QUALITY,0,,Et,2,Et menüsünden istediğinizi seçebilirsiniz hepsi olabileceğinin en iyisidir .
+5006,7,5006:2,,23,FOOD#QUALITY,0,,Tatlılar,8,Tatlılar da bir o kadar harikadır.
+5006,7,5006:3,,24,SERVICE#GENERAL,0,,Mekanın sahibi,14,Mekanın sahibi Beyti Bey her oraya gidişinizde masanıza uğrayıp selam verir.
+5006,7,5006:4,,25,FOOD#QUALITY,47,,yemek,52,Söylenecek daha da birşey yok kesinlikle güzel yemek yemek istiyor ve risk almak istemiyorsanız bana kalırsa Beyti'den iyisi yoktur !
+5006,7,5006:5,,26,FOOD#QUALITY,89,,lezzetleri,99,Özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun...
+5006,7,5006:5,,26,AMBIENCE#GENERAL,63,,dekorasyonu,74,Özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun...
+5007,8,5007:0,,27,AMBIENCE#GENERAL,13,,mekan,18,"Servis kotu, mekan fazla aydinlik ve gurultulu."
+5007,8,5007:0,,27,SERVICE#GENERAL,0,,Servis,6,"Servis kotu, mekan fazla aydinlik ve gurultulu."
+5007,8,5007:1,,28,SERVICE#GENERAL,0,,Garsonlarin,11,Garsonlarin ilgisizligi cabasi.
+5007,8,5007:2,,29,FOOD#QUALITY,0,,Yemekler,8,Yemekler soguk ve gec geliyor.
+5007,8,5007:2,,29,SERVICE#GENERAL,22,,geliyor,29,Yemekler soguk ve gec geliyor.
+5007,8,5007:3,,30,AMBIENCE#GENERAL,14,,Marina manzarasi,30,Tek guzelligi Marina manzarasi.
+5007,8,5007:4,,31,FOOD#QUALITY,5,,Cikolatali Karayip katlarini,33,Bide Cikolatali Karayip katlarini met etmeden yapamiycam.
+5008,9,5008:0,,32,RESTAURANT#GENERAL,0,,,0,İstikrarli.
+5008,9,5008:1,,33,FOOD#QUALITY,42,,susi,46,- Her gittigimde bir öncekinden daha kötü susi yapmayi nasil yapmayi beceriyorlar?
+5009,10,5009:0,TRUE,34,,,,,,"So so - Çok bir sey beklemeyin, Quick China kadar iyi degil."
+5009,10,5009:1,TRUE,35,,,,,,Bu akimin öncülerinden; ancak Quick China bence Sushico'yu solladi.
+5009,10,5009:2,,36,FOOD#QUALITY,0,,Sushiler,8,Sushiler gene basarili; ama yemekler ciddi anlamda bozuldu.
+5009,10,5009:2,,36,FOOD#QUALITY,28,,yemekler,36,Sushiler gene basarili; ama yemekler ciddi anlamda bozuldu.
+5009,10,5009:3,TRUE,37,,,,,,Sanirim ahçi isten ayrildi.
+5010,11,5010:0,,38,FOOD#QUALITY,34,,yemeklerinizz,47,Cok guzel hepsi birbirinden guzel yemeklerinizz ve lezzetli sonrasinda.
+5010,11,5010:1,,39,SERVICE#GENERAL,0,,Garsonlarin,11,Garsonlarin servis sunumunda hersey dört dört lük.
+5010,11,5010:2,,40,RESTAURANT#GENERAL,0,,,0,Tesekkur ediyorum.
+5010,11,5010:3,TRUE,41,,,,,,Calisanlara ve sizlere.
+5010,11,5010:4,TRUE,42,,,,,,Cem Boyraz
+5011,12,5011:0,,43,FOOD#QUALITY,8,,bicak arasi,19,Tavsiye bicak arasi yemeniz .
+5011,12,5011:1,,44,FOOD#STYLE_OPTIONS,72,,lezzetler,81,Masanin bir ucundan diger ucuna kadar uzaniyir konya mutfagindan farkli lezzetler deneyin fiyatlar uygun geldi .
+5012,13,5012:0,,45,FOOD#QUALITY,0,,Çikolatalı Saray muhallebisi,28,"Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim."
+5012,13,5012:0,,45,FOOD#QUALITY,31,,krem karamel,43,"Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim."
+5012,13,5012:0,,45,FOOD#QUALITY,47,,ayva tatlısından,63,"Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim."
+5012,13,5012:1,,46,RESTAURANT#GENERAL,0,,,0,Bu konuda onların eline kolay kolay kimse su süremez.
+5012,13,5012:2,,47,FOOD#QUALITY,12,,pilav üstü döneri,29,Çok açsanız pilav üstü döneri deneminizi tavsiye ederim.
+5013,14,5013:0,,48,AMBIENCE#GENERAL,39,,şubesi,45,Sadece teras katı oturulabilir olan bi şubesi.
+5013,14,5013:1,,49,RESTAURANT#GENERAL,6,,katlara,13,Diğer katlara pekte gerek yokmuş.
+5013,14,5013:2,,50,SERVICE#GENERAL,0,,Çalışanlar,10,Çalışanlar oldukca ilgili alakalı .
+5013,14,5013:3,,51,RESTAURANT#PRICES,0,,fiyatlar,8,fiyatlar aynı yani normal .
+5013,14,5013:4,,52,AMBIENCE#GENERAL,0,,teras katında,13,teras katında tatlınızı yiyip çayınızı yudumlayabilirsiniz.
+5014,15,5014:0,,53,RESTAURANT#GENERAL,0,,,0,Denemek lazim - Ögle arasinda is yerinden arkadaslar ile gittik.
+5014,15,5014:1,,54,FOOD#PRICES,58,,fiyatlar,66,"Biçak arasi iyi, saç arasi mükemmel, garsonlar ilgisiz ve fiyatlar uçmus."
+5014,15,5014:1,,54,FOOD#QUALITY,0,,Biçak arasi,11,"Biçak arasi iyi, saç arasi mükemmel, garsonlar ilgisiz ve fiyatlar uçmus."
+5014,15,5014:1,,54,FOOD#QUALITY,17,,saç arasi,26,"Biçak arasi iyi, saç arasi mükemmel, garsonlar ilgisiz ve fiyatlar uçmus."
+5014,15,5014:1,,54,SERVICE#GENERAL,37,,garsonlar,46,"Biçak arasi iyi, saç arasi mükemmel, garsonlar ilgisiz ve fiyatlar uçmus."
+5014,15,5014:2,,55,RESTAURANT#GENERAL,0,,,0,Ama gene de gitmek lazim.
+5015,16,5015:0,,56,FOOD#QUALITY,0,,Etli ekmeğinin,14,Etli ekmeğinin Konya'daki mekanlardan bile daha lezzetli olduğunu düşündüğüm mekan/dı.
+5015,16,5015:1,,57,RESTAURANT#GENERAL,0,,Başakşehir şubesi,17,Başakşehir şubesi açıldığından beri o eski Ovalı değil.
+5015,16,5015:2,TRUE,58,,,,,,Başakşehir'deki açık ara daha iyi.
+5016,17,5016:0,,59,LOCATION#GENERAL,0,,mekanın yeri,12,mekanın yeri çok güzel.
+5016,17,5016:1,,60,SERVICE#GENERAL,0,,çalışanları,11,çalışanları kibar.
+5016,17,5016:2,,61,FOOD#QUALITY,0,,lezzetine,9,lezzetine güvenebileceğiniz bir zincir zaten.
+5016,17,5016:3,,62,FOOD#QUALITY,0,,deniz ürünleri salatası,23,deniz ürünleri salatası çok lezzetli.
+5016,17,5016:4,,63,FOOD#STYLE_OPTIONS,0,,"ahtapot, karides, kalamar, somon",32,"ahtapot, karides, kalamar, somon füme ; ne ararsanız var içinde."
+5016,17,5016:5,,64,FOOD#QUALITY,0,,,0,sağlıklı ve hafif.
+5017,18,5017:0,,65,RESTAURANT#GENERAL,93,,mekan,98,Toplantı için Kalkıp Florya Lara kadar gidip beklentiye bağlı olarak hayal kırıklığı yaratan mekan.
+5017,18,5017:1,,66,AMBIENCE#GENERAL,89,,aksesuarlar,100,Dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta.
+5017,18,5017:1,,66,AMBIENCE#GENERAL,51,,mekan,56,Dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta.
+5017,18,5017:2,,67,FOOD#QUALITY,18,,döner,23,"Yemeklere gelince döner tatsız tuzsuz, et köfte Pınar'ın et köftesinden daha kötü, kırmızı et hafifçe sert ve keyifsizdi."
+5017,18,5017:2,,67,FOOD#QUALITY,83,,kırmızı et,93,"Yemeklere gelince döner tatsız tuzsuz, et köfte Pınar'ın et köftesinden daha kötü, kırmızı et hafifçe sert ve keyifsizdi."
+5017,18,5017:2,,67,FOOD#QUALITY,39,,et köfte,47,"Yemeklere gelince döner tatsız tuzsuz, et köfte Pınar'ın et köftesinden daha kötü, kırmızı et hafifçe sert ve keyifsizdi."
+5017,18,5017:3,,68,FOOD#QUALITY,6,,künefe,12,Belki künefe iyidir diye düşünürken künefenin peynirden yoksun olması hayal kırıklığımızı üst seviyeye çıkardı.
+5017,18,5017:4,,69,FOOD#QUALITY,5,,kebap,10,Illa kebap yemek istiyorsanız başka tercihlere yönelin derim...
+5018,19,5018:0,,70,RESTAURANT#GENERAL,0,,,0,Uzun zamandir gitmemistim ve iyi ki gitmemisim.
+5018,19,5018:1,,71,FOOD#QUALITY,10,,lahmacunu tavugu,26,Gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl.
+5018,19,5018:1,,71,FOOD#PRICES,45,,hesap,50,Gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl.
+5018,19,5018:2,,72,AMBIENCE#GENERAL,24,,design,30,"Hic tavsiye etmiyorum , design deseniz zaten ic karartici ve demode"
+5019,20,5019:0,,73,RESTAURANT#PRICES,34,,1600 tl,41,100 lira fix menuye gittik 8 kisi 1600 tl odedik 1 buyuk raki ictik toplamda.
+5019,20,5019:1,,74,DRINKS#PRICES,0,,kahve ve caylar,15,kahve ve caylar 200 tl tutmus heryerde cay ikramdir hemde 1600 tl hesap verene uzak durun
+5020,21,5020:0,,75,AMBIENCE#GENERAL,40,,oturumu,47,Eğer deniz kenarında yer bulabilirseniz oturumu çok keyifli.
+5020,21,5020:1,,76,SERVICE#GENERAL,51,,servis,57,Mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor.
+5020,21,5020:1,,76,SERVICE#GENERAL,28,,personel,36,Mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor.
+5020,21,5020:2,,77,FOOD#QUALITY,0,,Yemekleri,9,Yemekleri gayet güzel
+5021,22,5021:0,,78,SERVICE#GENERAL,0,,İftar servisini,15,İftar servisini çok zayıf bulduk.
+5021,22,5021:1,,79,SERVICE#GENERAL,20,,servis,26,500 kişiye kaliteli servis verilemiyorsa 300 kişiye daha iyi şartlar sağlanabilir diye düşünüyorum.
+5021,22,5021:2,,80,RESTAURANT#GENERAL,0,,,0,Ramazanda tavsiye etmiyorum.
+5022,23,5022:0,,81,SERVICE#GENERAL,42,,çalışanları,53,Bana sushiyi sevdiren tek yer diyebilirim çalışanları o kadar güler yüzlü ki.
+5022,23,5022:1,,82,RESTAURANT#PRICES,3,,fiyata,9,Bu fiyata böyle bir memnuniyet çok az rastlanacak şey .
+5022,23,5022:2,,83,AMBIENCE#GENERAL,0,,Mekan,5,Mekan hiç boğucu degil gayet güzel
+5023,24,5023:0,TRUE,84,,,,,,Akrabalar bizi goturdu.
+5023,24,5023:1,TRUE,85,,,,,,Burasi turkiyedeki eti restoran olarak mukenmel restorant biriymis.
+5023,24,5023:2,,86,FOOD#QUALITY,8,,et yemekler,19,Tabi ki et yemekler hepsi cok harika.
+5023,24,5023:3,,87,AMBIENCE#GENERAL,0,,Tarihi bina,11,Tarihi bina da begendim.
+5024,25,5024:0,,88,FOOD#QUALITY,30,,Bıçak arası,41,Tereyağlı Mercimek Çorbası ve Bıçak arası muhteşem ikili diyebilirim.
+5024,25,5024:0,,88,FOOD#QUALITY,0,,Tereyağlı Mercimek Çorbası,26,Tereyağlı Mercimek Çorbası ve Bıçak arası muhteşem ikili diyebilirim.
+5024,25,5024:1,,89,RESTAURANT#GENERAL,0,,,0,Her Şubesi'nde aynı kaliteyi yakalamışlar.
+5024,25,5024:2,,90,FOOD#QUALITY,7,,döner,12,Sadece döner olayını pek yapamıyorlar.
+5025,26,5025:0,,91,AMBIENCE#GENERAL,57,,ambiyans,65,Servis saatlerinde bolca kalabalik olan ilgili bir mekan ambiyans olarak farkli bir lezzet tadacaginizi size bildiriyor.
+5025,26,5025:1,,92,FOOD#STYLE_OPTIONS,7,,tatlar,13,Farkli tatlar icin dusunulebilinir.
+5026,27,5026:0,,93,FOOD#STYLE_OPTIONS,0,,Tavuklarin,10,Tavuklarin iri dogranmis olmasi pek hos degil.
+5026,27,5026:1,,94,FOOD#QUALITY,0,,Pilavda,7,Pilavda su tadi aliyorsunuz.
+5026,27,5026:2,,95,RESTAURANT#PRICES,14,,"9,5 TL",20,"Bir de üstüne 9,5 TL veriyorsunuz."
+5026,27,5026:3,TRUE,96,,,,,,Afiyet oldu mu simdi bana :
+5027,28,5027:0,,97,FOOD#QUALITY,26,,kahvalti,34,Tercih etmem - Pazar günü kahvalti için gittim.
+5027,28,5027:1,,98,FOOD#QUALITY,63,,kahvalti,71,Daha önce Nisantasi'nda ki subeye gitmistim ve inanilmaz güzel kahvalti etmistim ve memnun kalmistim.
+5027,28,5027:2,,99,RESTAURANT#GENERAL,13,,Beyoglu'nda ki subede,34,Ama bu sefer Beyoglu'nda ki subede hiç memnun kalmadim.
+5028,29,5028:0,,100,SERVICE#GENERAL,21,,Garsonlari,31,Manzarasi yat limani Garsonlari ilgi alakali ozellikle Ege bey.
+5028,29,5028:1,,101,FOOD#PRICES,6,,fiyatlar,14,Ancak fiyatlar ile yemek karsilastirmasi bence uyumsuz yuksek standartlar icermekte Ayni mekanda daha çok çeşit var İsim satıyor birazz Dikkat !
+5029,30,5029:0,,102,FOOD#QUALITY,19,,lezzeti,26,"Konumu, manzarası, lezzeti şahane..."
+5029,30,5029:0,,102,AMBIENCE#GENERAL,8,,manzarası,17,"Konumu, manzarası, lezzeti şahane..."
+5029,30,5029:0,,102,LOCATION#GENERAL,0,,Konumu,6,"Konumu, manzarası, lezzeti şahane..."
+5029,30,5029:1,,103,FOOD#QUALITY,27,,lahmacun,35,Bir arkadaşımın ısrarı ile lahmacun yemiştim ki benim yediğim en güzel lahmacundu...
+5029,30,5029:2,,104,FOOD#QUALITY,0,,Kebapları,9,Kebapları zaten muazzam :
+5029,30,5029:3,TRUE,105,,,,,,Yani en basitinden en zoruna...
+5029,30,5029:4,,106,RESTAURANT#GENERAL,0,,,0,Hepsi harika...
+5029,30,5029:5,,107,RESTAURANT#MISCELLANEOUS,55,,mekan,60,Ayrıca sigara içmeyenlerin dostu olması dolayısıyla bu mekan benim en favorilerimden :
+5030,31,5030:0,TRUE,108,,,,,,Bu mekan newyorkta olsa yemek yemek için bir sene önceden rezervasyon yaptırmak gerekirdi.
+5030,31,5030:1,,109,AMBIENCE#GENERAL,12,,salonlar,20,Pırıl pırıl salonlar Güler yüzlü ve temiz garsonlar.
+5030,31,5030:1,,109,SERVICE#GENERAL,42,,garsonlar,51,Pırıl pırıl salonlar Güler yüzlü ve temiz garsonlar.
+5030,31,5030:2,,110,FOOD#QUALITY,0,,Etler,5,Etler için yoruma gerek yok.
+5030,31,5030:3,,111,FOOD#QUALITY,36,,kuzu kol,44,"Özellikle favorim bakır kapta gelen kuzu kol , bunu bu şekilde başka yerde yemeniz olanaksız."
+5030,31,5030:4,,112,DRINKS#QUALITY,91,,koyu ayranı,102,"zeytinyağlılar süper özellikle imambayıldı titretiyor insanı,alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim."
+5030,31,5030:4,,112,FOOD#QUALITY,31,,imambayıldı,42,"zeytinyağlılar süper özellikle imambayıldı titretiyor insanı,alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim."
+5030,31,5030:4,,112,FOOD#QUALITY,0,,zeytinyağlılar,14,"zeytinyağlılar süper özellikle imambayıldı titretiyor insanı,alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim."
+5030,31,5030:5,,113,RESTAURANT#PRICES,3,,fiyatlara,12,İş fiyatlara gelince öyle bir mekan için normal fakat beyti kalitesinde Avrupa veya Amerika'da yer iseniz 3 kat fazlasını ödemek zorundasınız.
+5031,32,5031:0,TRUE,114,,,,,,Mahalle lokantasi - Yillardan beri Sushico Nisantasi'nda.
+5031,32,5031:1,,115,RESTAURANT#GENERAL,27,,lokanta,34,Ara sira gidilebilecek bir lokanta.
+5031,32,5031:2,,116,FOOD#QUALITY,0,,Susileri,8,"Susileri belli bir seviyede her zaman, asagi düsmüyor."
+5031,32,5031:3,,117,FOOD#QUALITY,0,,Çin yemekleri,13,Çin yemekleri de fena degil.
+5032,33,5032:0,TRUE,118,,,,,,sabahları börekleri.
+5032,33,5032:1,,119,FOOD#QUALITY,0,,öğle ve akşam yemekleriyle,26,öğle ve akşam yemekleriyle her şubesinde aynı kaliteyi yakalamış mekan.
+5032,33,5032:2,,120,FOOD#QUALITY,0,,tatlılarını,11,tatlılarını övmeye gerek bile görmüyorum.
+5032,33,5032:3,,121,FOOD#QUALITY,6,,dondurması,16,yazın dondurması da denenmeli.
+5033,34,5033:0,,122,FOOD#QUALITY,0,,Sütlü tatlilari,15,Sütlü tatlilari mükemmel diyebilirim.
+5033,34,5033:1,,123,DRINKS#QUALITY,0,,Çayi,4,Çayi güzel.
+5033,34,5033:2,,124,FOOD#QUALITY,0,,Döneri,6,Döneri çogu insan tarafindan sevilmese de ben seviyorum.
+5033,34,5033:3,,125,FOOD#QUALITY,4,,iskenderi,13,Ama iskenderi güzel degil.
+5033,34,5033:4,,126,FOOD#QUALITY,0,,Sos,3,Sos isini beceremiyorlar.
+5033,34,5033:5,,127,FOOD#QUALITY,10,,yogurt,16,Yanindaki yogurt güzel ama.
+5033,34,5033:6,,128,AMBIENCE#GENERAL,0,,,0,Bazen gereksiz derecede çok kalabalik olabiliyor.
+5034,35,5034:0,,129,AMBIENCE#GENERAL,63,,ambiyans,71,Kebap ve Et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan.
+5034,35,5034:0,,129,FOOD#QUALITY,53,,lezzet,59,Kebap ve Et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan.
+5034,35,5034:1,,130,FOOD#QUALITY,0,,Lahmacun ve içliköfte,21,Lahmacun ve içliköfte iyi fakat dolmaları Antep usulünde İstanbul'da yediklerim arasında en iyilerdendi.
+5034,35,5034:1,,130,FOOD#QUALITY,32,,dolmaları,41,Lahmacun ve içliköfte iyi fakat dolmaları Antep usulünde İstanbul'da yediklerim arasında en iyilerdendi.
+5034,35,5034:2,,131,FOOD#QUALITY,0,,Etler,5,"Etler malzeme, marinasyon, pişirme ve sunum açısından çok başarılı."
+5034,35,5034:2,,131,FOOD#STYLE_OPTIONS,0,,Etler,5,"Etler malzeme, marinasyon, pişirme ve sunum açısından çok başarılı."
+5034,35,5034:3,,132,FOOD#QUALITY,10,,fıstıklı kebap,24,Özellikle fıstıklı kebap favorim.
+5034,35,5034:4,,133,FOOD#QUALITY,0,,Katmer,6,Katmer de muazzam.
+5034,35,5034:5,,134,AMBIENCE#GENERAL,0,,Ambiyans ve dekorasyon,22,Ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz.
+5034,35,5034:5,,134,FOOD#STYLE_OPTIONS,119,,sipariş,126,Ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz.
+5035,36,5035:0,,135,AMBIENCE#GENERAL,0,,Manzara,7,"Manzara süper,yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor."
+5035,36,5035:0,,135,FOOD#QUALITY,14,,yemekler,22,"Manzara süper,yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor."
+5035,36,5035:0,,135,FOOD#STYLE_OPTIONS,38,,porsiyon miktarı,54,"Manzara süper,yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor."
+5035,36,5035:1,TRUE,136,,,,,,happymoons daha iyi daha uygun we porsiyonları çok büyük.
+5036,37,5036:0,,137,AMBIENCE#GENERAL,33,,koku,37,çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor
+5036,37,5036:0,,137,SERVICE#GENERAL,61,,garsonlar,70,çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor
+5036,37,5036:0,,137,FOOD#QUALITY,46,,yemekleri,55,çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor
+5036,37,5036:0,,137,FOOD#QUALITY,79,,kahvaltısı,89,çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor
+5037,38,5037:0,,138,SERVICE#GENERAL,0,,Çalışanlar,10,Çalışanlar kesinlikle çok nezih.
+5037,38,5037:1,,139,DRINKS#QUALITY,0,,Çayı,4,Çayı da güzel yapıyorlar yanına da su böreği .
+5037,38,5037:1,,139,FOOD#QUALITY,35,,su böreği,44,Çayı da güzel yapıyorlar yanına da su böreği .
+5037,38,5037:2,,140,RESTAURANT#GENERAL,0,,,0,Tavsiye ederim.
+5037,38,5037:3,,141,LOCATION#GENERAL,33,,solda,38,Istiklal Caddesi'ne girdiğinizde solda kalıyor.
+5038,39,5038:0,,142,AMBIENCE#GENERAL,27,,mekanların,37,Deniz kenarında olan bütün mekanların aurası başka tabi adı birde Fenerbahçe olursa...
+5038,39,5038:1,,143,RESTAURANT#GENERAL,21,,buranın,28,Açıldığından bu yana buranın keyfini çıkarmayı çok seviyorum.
+5038,39,5038:2,,144,FOOD#QUALITY,7,,lezzetler,16,Klasik lezzetler...

@@ -1,0 +1,54 @@
+﻿/Reviews,,,,,,
+/Review/@rid,/Review/#id,/Review/Opinions/opinion/@category,/Review/Opinions/opinion/@polarity,/Review/sentences/sentence/@id,/Review/sentences/sentence/@OutOfScope,/Review/sentences/sentence/text
+1000,1,AMBIENCE#GENERAL,positive,,,
+1000,1,SERVICE#GENERAL,negative,,,
+1000,1,RESTAURANT#GENERAL,negative,,,
+1000,1,FOOD#QUALITY,positive,,,
+1000,1,FOOD#STYLE_OPTIONS,negative,,,
+1000,1,RESTAURANT#PRICES,negative,,,
+1000,1,,,1000:0,,Manzara sahane evet ama servis rezalet.
+1000,1,,,1000:1,,"Soguk su isteyince, soguk yok, butun sulari disari cikardik diyen garson, siparisten tam 2 saat sonra gelen yemekler, yemegin yaninda soylenen roka ve pureden eser olmamasi, istedigimiz 2 mezenin de kalmamis olmasi."
+1000,1,,,1000:2,,"Yemekler iyi hos, lezzetler iyi ama heyecan verici bi taraflari yok, iyi bir baligi iyi bir sekilde izgara yapmak artik atla deve bi olay degil."
+1000,1,,,1000:3,,bu servise bu fiyatlar ise cok faZla.
+1000,1,,,1000:4,,Lacivert beni kalitesinin dusukluguyle cok sasirtti
+1001,2,RESTAURANT#GENERAL,negative,,,
+1001,2,FOOD#QUALITY,negative,,,
+1001,2,SERVICE#GENERAL,negative,,,
+1001,2,,,1001:0,TRUE,Nerden baslasam bilemedim.
+1001,2,,,1001:1,,Buraya bu kadar iyi yorum yapanlar her halde daha önce hiç balik yemediler.
+1001,2,,,1001:2,,Kalamardan ve koladan önce balik geldi ve apar topar önümüze atildi.
+1001,2,,,1001:3,,ayrica gelen kalamar soguk ve sünger gibiydi.
+1001,2,,,1001:4,,uzun lafin kisasi kesinlikle ve asla bir daha gitmem ve tavsiyede etmem.
+1001,2,,,1001:5,,Daha önce de söyledigim gibi büyüdükçe kalitesi düsen yerlerden
+1002,3,RESTAURANT#PRICES,negative,,,
+1002,3,RESTAURANT#GENERAL,negative,,,
+1002,3,FOOD#QUALITY,negative,,,
+1002,3,,,1002:0,,Kesinlikle ev yemegi degil - Bu kadar basarisiz ev yemekleri olmasina ragmen ögle saatlerinde ki yogunlugu çözebilmis degilim.
+1002,3,,,1002:1,,Ya insanlar gerçekten ev yemeginin nasil oldugunu bilmiyorlar.
+1002,3,,,1002:2,,Ya da herkes benim gibi 1 kere deniyor ve bir daha gitmiyor.
+1002,3,,,1002:3,,1 kere denedigim fiyatlarinin yüksek yemeklerinin lezzetsiz oldugu bir mekan önermiyorum.
+1003,4,RESTAURANT#GENERAL,neutral,,,
+1003,4,AMBIENCE#GENERAL,negative,,,
+1003,4,FOOD#QUALITY,positive,,,
+1003,4,SERVICE#GENERAL,negative,,,
+1003,4,,,1003:0,,"mekanın girişinde kasap reyonu ışıltılı,sıcak bir ortam yaratılmaya çalışılmış manzara olmadığı için bulunduğu konumda pek samimi bulmadım."
+1003,4,,,1003:1,,garsonumuz ilgisizdi biz söyledikce yaptı buda benim restauranttan beklentimi zayıflatıyor.
+1003,4,,,1003:2,,lokumun daha iyisini yedim küşleme güzeldi.
+1003,4,,,1003:3,TRUE,şazeli salata yani...
+1003,4,,,1003:4,,bilemedim mekana daha sonra belki bir şans daha verebilirim.
+1004,5,DRINKS#PRICES,negative,,,
+1004,5,RESTAURANT#GENERAL,positive,,,
+1004,5,,,1004:0,,2 sene önce hızlı bir kahvaltı yapmak için geldiğimiz mekana dair hatırımda kalan 6 tl lik çayı oldu:
+1004,5,,,1004:1,,) menüde dikkat etmemiştik ama hesap gelince ufak bir şok yaşamıştık😩 güzel olabilir ama kahvaltıdan fazla ödediğimiz çay yüzünden bir daha uğramadık.
+1005,6,RESTAURANT#GENERAL,positive,,,
+1005,6,AMBIENCE#GENERAL,positive,,,
+1005,6,FOOD#QUALITY,positive,,,
+1005,6,SERVICE#GENERAL,positive,,,
+1005,6,,,1005:0,,Şatobiryanı öneririm.
+1005,6,,,1005:1,,Sosu tereyagli ve yumusak .
+1005,6,,,1005:2,,Sert et sevmeyenler icin cok lezzetliydi.
+1005,6,,,1005:3,,Guvecte yogurt ve salatayla iyi bir uclu oldu.
+1005,6,,,1005:4,,Servisi hizli valesi var.
+1005,6,,,1005:5,,Acik mekanda ise gardenya bolumu guzel.
+1005,6,,,1005:6,,Kalabalik icin ideal.
+1005,6,,,1005:7,TRUE,Yaninda cafe ve nargile bolumu var.

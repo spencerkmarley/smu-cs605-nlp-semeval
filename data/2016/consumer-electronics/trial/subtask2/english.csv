@@ -1,0 +1,103 @@
+﻿/Reviews,,,,,
+/Review/@rid,/Review/#id,/Review/Opinions/Opinion/@category,/Review/Opinions/Opinion/@polarity,/Review/sentences/sentence/@id,/Review/sentences/sentence/text
+348,1,LAPTOP#GENERAL,positive,,
+348,1,LAPTOP#OPERATION_PERFORMANCE,positive,,
+348,1,HARD_DISC#DESIGN_FEATURES,positive,,
+348,1,LAPTOP#QUALITY,positive,,
+348,1,DISPLAY#QUALITY,negative,,
+348,1,,,348:0,"Most everything is fine with this machine: speed, capacity, build."
+348,1,,,348:1,"The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail."
+348,1,,,348:2,"Yes, I have it on the highest available setting."
+285,2,LAPTOP#DESIGN_FEATURES,positive,,
+285,2,KEYBOARD#GENERAL,positive,,
+285,2,LAPTOP#OPERATION_PERFORMANCE,positive,,
+285,2,LAPTOP#GENERAL,positive,,
+285,2,LAPTOP#USABILITY,positive,,
+285,2,LAPTOP#QUALITY,positive,,
+285,2,LAPTOP#PRICE,positive,,
+285,2,,,285:0,"I love the size, keyboard, the functions."
+285,2,,,285:1,I don't really have a complaint.
+285,2,,,285:2,"It is easy to use, good quality and good price."
+285,2,,,285:3,Perfect trifecta!
+285,2,,,285:4,I would recommend this product.
+337,3,LAPTOP#GENERAL,positive,,
+337,3,LAPTOP#DESIGN_FEATURES,positive,,
+337,3,COMPANY#GENERAL,positive,,
+337,3,LAPTOP#USABILITY,negative,,
+337,3,,,337:0,"I love this product because it is Toshiba and its 15.6""."
+337,3,,,337:1,"It has no camera but, I can always buy and install one easy."
+337,3,,,337:2,"I had a USB connect but, i can't use it because it is not compatible."
+337,3,,,337:3,That's the downside for me.
+337,3,,,337:4,"But, I would recommend this product."
+54,4,LAPTOP#GENERAL,negative,,
+54,4,LAPTOP#PRICE,negative,,
+54,4,SUPPORT#QUALITY,negative,,
+54,4,COMPANY#GENERAL,negative,,
+54,4,,,54:0,I bought this laptop Was the worst Laptop I've ever bought.
+54,4,,,54:1,I spent alot of money on this product and its been a nightmare.
+54,4,,,54:2,And having to deal with the company has been a even worse nightmare.
+54,4,,,54:3,I sent it to them to fix in perfect condition but for what was wrong with it.
+54,4,,,54:4,They sent it back with a huge crack in it and it still didn't work.
+54,4,,,54:5,And that was the fourth time ive sent it to them to get fixed.
+54,4,,,54:6,Its been a year and am still waiting to see what there going to do about my laptop.
+54,4,,,54:7,So if anyones looking to buy a computer or laptop you should stay far far away from any that have the name TOSHIBA on it...
+252,5,LAPTOP#GENERAL,positive,,
+252,5,LAPTOP#PRICE,negative,,
+252,5,LAPTOP#USABILITY,neutral,,
+252,5,,,252:0,"So far, a great product."
+252,5,,,252:1,"High price tag, however."
+252,5,,,252:2,Still trying to learn how to use it.
+85,6,LAPTOP#PRICE,positive,,
+85,6,LAPTOP#GENERAL,positive,,
+85,6,LAPTOP#OPERATION_PERFORMANCE,positive,,
+85,6,LAPTOP#USABILITY,positive,,
+85,6,SUPPORT#QUALITY,positive,,
+85,6,,,85:0,"Okay, let's just start out by saying I am in no way a computer techy."
+85,6,,,85:1,"I am a wife, mom and a school teacher and a college student."
+85,6,,,85:2,"Trying to balance all of my roles leaves very little time for me to do anything, so I want to manage my time I do have to be the most efficient."
+85,6,,,85:3,I work on a PC at home and have used Pc all through college.
+85,6,,,85:4,"I use the computer to basically check emails, surf the web, print coupons and for my college papers."
+85,6,,,85:5,I was getting extrememly frustrated when I would want to do these simple taks that I would have to wait and wait and wait for things to download or virus that would clog up my PC.
+85,6,,,85:6,It would take up too much time to do reaearch for my papers and I would be up hours-just because the computer was too slow.
+85,6,,,85:7,My brother is a computer wiz and would laugh at me because he used an Apple.
+85,6,,,85:8,"Finally, I couldn't take it anymore and ordered my Apple."
+85,6,,,85:9,"Yes, I thought the expese was a little much, but I now realize you get what you pay for."
+85,6,,,85:10,"I love my Apple, it is quick and easy to use."
+85,6,,,85:11,"I've had to call Apple support to set up my new printer and have had wonderful experiences with helpful, english speaking (from Vancouver) techs that walked me through the processes to help me."
+85,6,,,85:12,I can't say enough of how satisfied I am with their product and help aftermarket.
+85,6,,,85:13,Money and time well spent!
+85,6,,,85:14,Highly recommended!
+375,7,LAPTOP#PRICE,positive,,
+375,7,LAPTOP#DESIGN_FEATURES,conflict,,
+375,7,LAPTOP#OPERATION_PERFORMANCE,positive,,
+375,7,LAPTOP#GENERAL,positive,,
+375,7,,,375:0,This laptop is a great price and has a sleek look.
+375,7,,,375:1,Runs smooth and quick.
+375,7,,,375:2,"I wish it had a webcam though, then it would be perfect!"
+139,8,LAPTOP#GENERAL,negative,,
+139,8,LAPTOP#CONNECTIVITY,negative,,
+139,8,DISPLAY#OPERATION_PERFORMANCE,negative,,
+139,8,LAPTOP#OPERATION_PERFORMANCE,negative,,
+139,8,COMPANY#GENERAL,negative,,
+139,8,,,139:0,"HP Pavilion DV9000 Notebook PC      When I first got this computer, it really rocked."
+139,8,,,139:1,But as time went on I found it almost impossible to keep the thing on-line through wi-fi.
+139,8,,,139:2,Eventually the screen went blank and the computer would not turn on.
+139,8,,,139:3,HP said it was out of warranty.
+139,8,,,139:4,Guess I'll stay away from HP.
+B00KMRGF28_285_AULBCYLXY34W9,9,LAPTOP#PRICE,positive,,
+B00KMRGF28_285_AULBCYLXY34W9,9,LAPTOP#GENERAL,positive,,
+B00KMRGF28_285_AULBCYLXY34W9,9,LAPTOP#USABILITY,positive,,
+B00KMRGF28_285_AULBCYLXY34W9,9,LAPTOP#DESIGN_FEATURES,conflict,,
+B00KMRGF28_285_AULBCYLXY34W9,9,LAPTOP#PORTABILITY,positive,,
+B00KMRGF28_285_AULBCYLXY34W9,9,,,B00KMRGF28_285_AULBCYLXY34W9:0,Great price and computer!
+B00KMRGF28_285_AULBCYLXY34W9,9,,,B00KMRGF28_285_AULBCYLXY34W9:1,"I bought this laptop computer for my parents, they only access their facebook and e-mail accounts, see family pictures, etc."
+B00KMRGF28_285_AULBCYLXY34W9,9,,,B00KMRGF28_285_AULBCYLXY34W9:2,They loved it.
+B00KMRGF28_285_AULBCYLXY34W9,9,,,B00KMRGF28_285_AULBCYLXY34W9:3,"It's easy to operate and it's very light (my parents are almost 60 yo, they can't carry a heavy computer while traveling)."
+B00KMRGF28_285_AULBCYLXY34W9,9,,,B00KMRGF28_285_AULBCYLXY34W9:4,"But here's something I hadn't realized before buying it: there isn't an optical drive, which means NO CDs or DVDs!"
+76,10,LAPTOP#GENERAL,positive,,
+76,10,BATTERY#OPERATION_PERFORMANCE,positive,,
+76,10,LAPTOP#DESIGN_FEATURES,positive,,
+76,10,MULTIMEDIA_DEVICES#GENERAL,negative,,
+76,10,,,76:0,I have loved this since i took it out of the box.
+76,10,,,76:1,The battery is really long.
+76,10,,,76:2,"the features are great, the only thing it needs is better speakers."
