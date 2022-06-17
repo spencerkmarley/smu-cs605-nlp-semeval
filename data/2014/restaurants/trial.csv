@@ -1,0 +1,212 @@
+﻿/sentences,,,,,,,,
+/sentence/@id,/sentence/#id,/sentence/aspectCategories/aspectCategory/@category,/sentence/aspectCategories/aspectCategory/@polarity,/sentence/aspectTerms/aspectTerm/@from,/sentence/aspectTerms/aspectTerm/@polarity,/sentence/aspectTerms/aspectTerm/@term,/sentence/aspectTerms/aspectTerm/@to,/sentence/text
+813,1,food,positive,,,,,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+813,1,,,8,positive,appetizers,18,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+813,1,,,23,positive,salads,29,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+813,1,,,49,positive,steak,54,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+813,1,,,82,positive,pasta,87,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+1579,2,food,positive,,,,,And really large portions.
+1579,2,,,17,positive,portions,25,And really large portions.
+2707,3,anecdotes/miscellaneous,positive,,,,,Go inside and you won't want to leave.
+3126,4,anecdotes/miscellaneous,negative,,,,,Save yourself the time and trouble and skip this one!
+2882,5,food,conflict,,,,,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+2882,5,,,4,positive,sweet lassi,15,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+2882,5,,,41,positive,lamb chettinad,55,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+2882,5,,,64,positive,garlic naan,75,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+2882,5,,,84,negative,rasamalai,93,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+1609,6,service,positive,,,,,Service was quick.
+1609,6,,,0,positive,Service,7,Service was quick.
+3018,7,price,negative,,,,,"Oh, don't even let me start with how expensive the bills were!"
+3018,7,,,51,negative,bills,56,"Oh, don't even let me start with how expensive the bills were!"
+3292,8,service,positive,,,,,Service is top notch.
+3292,8,,,0,positive,Service,7,Service is top notch.
+2041,9,food,positive,,,,,The best thing I tasted were the lambc hops.
+2041,9,,,33,positive,lambc hops,43,The best thing I tasted were the lambc hops.
+2609,10,anecdotes/miscellaneous,positive,,,,,Overall I would recommend it and go back again.
+1194,11,anecdotes/miscellaneous,negative,,,,,I've been here a couple of times and have not been impressed.
+3440,12,food,positive,,,,,"Even though its good seafood, the prices are too high."
+3440,12,price,negative,,,,,"Even though its good seafood, the prices are too high."
+3440,12,,,21,positive,seafood,28,"Even though its good seafood, the prices are too high."
+3440,12,,,34,negative,prices,40,"Even though its good seafood, the prices are too high."
+870,13,food,positive,,,,,"In addition, the food is very good and the prices are reasonable."
+870,13,price,positive,,,,,"In addition, the food is very good and the prices are reasonable."
+870,13,,,17,positive,food,21,"In addition, the food is very good and the prices are reasonable."
+870,13,,,43,positive,prices,49,"In addition, the food is very good and the prices are reasonable."
+2507,14,food,positive,,,,,The food is great and authentic.
+2507,14,,,4,positive,food,8,The food is great and authentic.
+586,15,anecdotes/miscellaneous,neutral,,,,,I was at Rao's last Wed.
+3081,16,food,positive,,,,,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+3081,16,,,16,positive,garlic shrimp,29,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+3081,16,,,31,positive,okra (bindi),43,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+3081,16,,,63,positive,lamb,67,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+1884,17,food,positive,,,,,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+1884,17,,,4,positive,menu,8,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+1884,17,,,55,neutral,burger,61,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+1884,17,,,66,neutral,steak,71,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+1884,17,,,76,neutral,escargot,84,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+2077,18,food,positive,,,,,very good breads as well.
+2077,18,,,10,positive,breads,16,very good breads as well.
+201,19,food,positive,,,,,"Anyway, the food is good, the price is right and they have a decent wine list."
+201,19,price,positive,,,,,"Anyway, the food is good, the price is right and they have a decent wine list."
+201,19,,,12,positive,food,16,"Anyway, the food is good, the price is right and they have a decent wine list."
+201,19,,,30,positive,price,35,"Anyway, the food is good, the price is right and they have a decent wine list."
+201,19,,,68,positive,wine list,77,"Anyway, the food is good, the price is right and they have a decent wine list."
+3049,20,food,negative,,,,,The food was lousy -too sweet or too salty and the portions tiny.
+3049,20,,,4,negative,food,8,The food was lousy -too sweet or too salty and the portions tiny.
+3049,20,,,51,negative,portions,59,The food was lousy -too sweet or too salty and the portions tiny.
+1242,21,food,positive,,,,,But the coconut rice was good.
+1242,21,,,8,positive,coconut rice,20,But the coconut rice was good.
+2211,22,food,negative,,,,,And the Tom Kha soup was pathetic.
+2211,22,,,8,negative,Tom Kha soup,20,And the Tom Kha soup was pathetic.
+3343,23,food,negative,,,,,The food now is inconsistent.
+3343,23,,,4,negative,food,8,The food now is inconsistent.
+2141,24,food,positive,,,,,"Try the crunchy tuna, it is to die for."
+2141,24,,,8,positive,crunchy tuna,20,"Try the crunchy tuna, it is to die for."
+83,25,price,positive,,,,,Reasonable prices.
+83,25,,,11,positive,prices,17,Reasonable prices.
+381,26,food,positive,,,,,Everything at Sala Thai is tasty and well-portioned.
+3315,27,food,positive,,,,,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+3315,27,price,positive,,,,,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+3315,27,service,positive,,,,,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+3315,27,,,18,positive,service,25,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+3315,27,,,36,positive,food,40,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+3315,27,,,57,positive,price,62,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+1709,28,food,negative,,,,,"Unfortunately, the food was NOT something to get worked up about."
+1709,28,,,19,negative,food,23,"Unfortunately, the food was NOT something to get worked up about."
+193,29,food,positive,,,,,The food is great and reasonably priced.
+193,29,price,positive,,,,,The food is great and reasonably priced.
+193,29,,,4,positive,food,8,The food is great and reasonably priced.
+193,29,,,33,positive,priced,39,The food is great and reasonably priced.
+2459,30,anecdotes/miscellaneous,positive,,,,,I got enough reasons to keep coming back!!!
+1293,31,food,negative,,,,,"Their calzones are horrific, bad, vomit-inducing, YUCK."
+1293,31,,,6,negative,calzones,14,"Their calzones are horrific, bad, vomit-inducing, YUCK."
+2105,32,food,negative,,,,,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+2105,32,,,21,negative,turnip cake,32,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+2105,32,,,34,negative,roast pork buns,49,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+2105,32,,,54,negative,egg custards,66,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+2152,33,food,positive,,,,,The bagels are fabulous.
+2152,33,,,4,positive,bagels,10,The bagels are fabulous.
+3358,34,anecdotes/miscellaneous,positive,,,,,I never had anything I didn't like here.
+2751,35,anecdotes/miscellaneous,negative,,,,,I definitely wouldn't go back.
+882,36,ambience,positive,,,,,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+882,36,food,negative,,,,,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+882,36,service,negative,,,,,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+882,36,,,10,positive,ambiance,18,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+882,36,,,23,positive,atmosphere,33,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+882,36,,,50,negative,food,54,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+882,36,,,59,negative,service,66,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+1124,37,service,positive,,,,,"Our waitress was sweet and accomodating, not overbearing."
+1124,37,,,4,positive,waitress,12,"Our waitress was sweet and accomodating, not overbearing."
+3546,38,anecdotes/miscellaneous,neutral,,,,,I have tried literally every restaurant on curry row.
+3020,39,food,positive,,,,,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+3020,39,,,33,positive,fish,37,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+3020,39,,,45,positive,rice,49,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+3020,39,,,57,positive,seaweed,64,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+746,40,anecdotes/miscellaneous,neutral,,,,,I went to this restaurant with a woman that I met recently.
+3170,41,food,positive,,,,,"Good spreads, great beverage selections and bagels really tasty."
+3170,41,,,5,positive,spreads,12,"Good spreads, great beverage selections and bagels really tasty."
+3170,41,,,20,positive,beverage selections,39,"Good spreads, great beverage selections and bagels really tasty."
+3170,41,,,44,positive,bagels,50,"Good spreads, great beverage selections and bagels really tasty."
+2171,42,food,positive,,,,,The food options rule.
+2171,42,,,4,positive,food options,16,The food options rule.
+2811,43,food,positive,,,,,Consistently good Japanese Tapas.
+2811,43,,,18,positive,Japanese Tapas,32,Consistently good Japanese Tapas.
+762,44,anecdotes/miscellaneous,neutral,,,,,I went to Ruby Foo's after work with a group of 6.
+339,45,food,negative,,,,,The sushi was awful!
+339,45,,,4,negative,sushi,9,The sushi was awful!
+217,46,anecdotes/miscellaneous,positive,,,,,My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.
+3478,47,ambience,negative,,,,,Now it's so crowded and loud you can't even talk to the person next to you.
+1180,48,anecdotes/miscellaneous,positive,,,,,"Go, go, hurry, before everyone finds out about it."
+3372,49,anecdotes/miscellaneous,positive,,,,,I've been many time and have never been disappointed.
+776,50,food,positive,,,,,The food was great.
+776,50,,,4,positive,food,8,The food was great.
+3208,51,anecdotes/miscellaneous,positive,,,,,Don't leave without trying One Night in Tokyo.
+2673,52,anecdotes/miscellaneous,positive,,,,,I would go back tho.
+1380,53,anecdotes/miscellaneous,positive,,,,,Definately check it out!!!
+3641,54,anecdotes/miscellaneous,positive,,,,,You cannot go wrong with this place.
+2806,55,anecdotes/miscellaneous,positive,,,,,"As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place."
+2630,56,anecdotes/miscellaneous,positive,,,,,I loving bringing friends here -and I do so every chance I get.
+924,57,food,positive,,,,,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+924,57,ambience,positive,,,,,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+924,57,,,50,positive,meal,54,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+924,57,,,70,positive,room,74,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+3411,58,food,positive,,,,,Even my Indian friend couldn't believe how good and tasty everything was.
+2164,59,anecdotes/miscellaneous,positive,,,,,We were not dissappointed in the least bit by this little gem.
+3077,60,anecdotes/miscellaneous,positive,,,,,A pleasant surprise.
+745,61,anecdotes/miscellaneous,positive,,,,,This was a repeat visit and we'll definitely be back again.
+1273,62,food,positive,,,,,I love the fact that the pizza tastes so good and is so cheap.
+1273,62,price,positive,,,,,I love the fact that the pizza tastes so good and is so cheap.
+1273,62,,,25,positive,pizza,30,I love the fact that the pizza tastes so good and is so cheap.
+179,63,service,positive,,,,,"Service was prompt, friendly and great."
+179,63,,,0,positive,Service,7,"Service was prompt, friendly and great."
+2460,64,anecdotes/miscellaneous,positive,,,,,OU MUST TRY THIS RESTAURANT.
+3045,65,anecdotes/miscellaneous,positive,,,,,All pretty good.
+1698,66,anecdotes/miscellaneous,positive,,,,,"Have eaten at Ginger House several times, and it's always good."
+109,67,food,positive,,,,,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil."
+109,67,,,16,positive,lamb chop,25,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil."
+109,67,,,52,positive,salads,58,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil."
+1057,68,service,negative,,,,,Drawbacks: service is slow and they don't toast!
+1057,68,,,11,negative,service,18,Drawbacks: service is slow and they don't toast!
+2186,69,anecdotes/miscellaneous,positive,,,,,It is by far my favorite restaurant in Brooklyn.
+3471,70,anecdotes/miscellaneous,negative,,,,,I've been to Joya twice and I will never go again.
+1401,71,anecdotes/miscellaneous,positive,,,,,A hearty two thumbs up!
+1112,72,anecdotes/miscellaneous,positive,,,,,Great find!!!
+3368,73,anecdotes/miscellaneous,positive,,,,,"If only they delivered, they'd make a mint!"
+3495,74,anecdotes/miscellaneous,negative,,,,,Was surprisingly disappointed.
+2451,75,price,positive,,,,,The prices were fantastic.
+2451,75,,,4,positive,prices,10,The prices were fantastic.
+948,76,anecdotes/miscellaneous,positive,,,,,I'm told that it is open 24hrs which is good.
+2202,77,anecdotes/miscellaneous,positive,,,,,What more could you want?
+2740,78,anecdotes/miscellaneous,positive,,,,,Excellent experience.
+537,79,anecdotes/miscellaneous,positive,,,,,Definitely a neighborhood favorite.
+1548,80,food,negative,,,,,"The food is terrible and overall, I would have to say avoid at all costs."
+1548,80,,,4,negative,food,8,"The food is terrible and overall, I would have to say avoid at all costs."
+134,81,food,positive,,,,,The food is prepared quickly and efficiently.
+134,81,,,4,positive,food,8,The food is prepared quickly and efficiently.
+2708,82,food,positive,,,,,"The food is fresh, delicious, and reasonably priced."
+2708,82,price,positive,,,,,"The food is fresh, delicious, and reasonably priced."
+2708,82,,,4,positive,food,8,"The food is fresh, delicious, and reasonably priced."
+2708,82,,,45,positive,priced,51,"The food is fresh, delicious, and reasonably priced."
+1455,83,anecdotes/miscellaneous,positive,,,,,This is my favorite Italian restaurant in all of New York City.
+2591,84,anecdotes/miscellaneous,negative,,,,,"Anyway, this is the last time I cross the williamsburg."
+1593,85,anecdotes/miscellaneous,positive,,,,,I am bringing my whole family back next time.
+1769,86,anecdotes/miscellaneous,positive,,,,,Love YUKA.
+3575,87,anecdotes/miscellaneous,neutral,,,,,"As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry."
+3575,87,,,68,neutral,waiter,74,"As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry."
+1105,88,anecdotes/miscellaneous,neutral,,,,,I have been coming to this neighborhood spot for years.
+2575,89,anecdotes/miscellaneous,positive,,,,,We will be back.
+742,90,ambience,positive,,,,,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.
+742,90,,,4,positive,outdoor atmosphere,22,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.
+1471,91,price,neutral,,,,,"A large is $20, and toppings are about $3 each."
+1471,91,,,20,neutral,toppings,28,"A large is $20, and toppings are about $3 each."
+1656,92,food,positive,,,,,The spicy tuna and salmon are the best we've ever had.
+1656,92,,,4,positive,spicy tuna,14,The spicy tuna and salmon are the best we've ever had.
+1656,92,,,19,positive,salmon,25,The spicy tuna and salmon are the best we've ever had.
+2769,93,anecdotes/miscellaneous,positive,,,,,A guaranteeed delight!
+3681,94,food,positive,,,,,"The food was very good, a great deal, and the place its self was great."
+3681,94,ambience,positive,,,,,"The food was very good, a great deal, and the place its self was great."
+3681,94,price,positive,,,,,"The food was very good, a great deal, and the place its self was great."
+3681,94,,,4,positive,food,8,"The food was very good, a great deal, and the place its self was great."
+3681,94,,,46,positive,place,51,"The food was very good, a great deal, and the place its self was great."
+2205,95,food,positive,,,,,The food is usually good but it certainly isn't a relaxing place to go.
+2205,95,ambience,negative,,,,,The food is usually good but it certainly isn't a relaxing place to go.
+2205,95,,,4,positive,food,8,The food is usually good but it certainly isn't a relaxing place to go.
+2205,95,,,59,negative,place,64,The food is usually good but it certainly isn't a relaxing place to go.
+1159,96,ambience,positive,,,,,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY."
+1159,96,,,6,neutral,dinner,12,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY."
+1159,96,,,41,positive,dance floor,52,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY."
+628,97,service,positive,,,,,The server was really cool and served us our food and drinks with a smile.
+628,97,,,4,positive,server,10,The server was really cool and served us our food and drinks with a smile.
+628,97,,,31,positive,served,37,The server was really cool and served us our food and drinks with a smile.
+628,97,,,45,neutral,food,49,The server was really cool and served us our food and drinks with a smile.
+628,97,,,54,neutral,drinks,60,The server was really cool and served us our food and drinks with a smile.
+2912,98,food,positive,,,,,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+2912,98,,,4,positive,dishes,10,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+2912,98,,,62,positive,lamb sausages,75,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+2912,98,,,77,positive,sardines with biscuits,99,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+2912,98,,,101,positive,large whole shrimp,119,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+2912,98,,,135,positive,pistachio ice cream,154,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+3188,99,anecdotes/miscellaneous,neutral,,,,,Went there for an office lunch.
+3188,99,,,18,neutral,office lunch,30,Went there for an office lunch.
+3041,100,anecdotes/miscellaneous,neutral,,,,,"We've only eaten in the restaurant once, but we have ordered many times for dinner."
+3041,100,,,76,neutral,dinner,82,"We've only eaten in the restaurant once, but we have ordered many times for dinner."
